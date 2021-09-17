@@ -70,7 +70,7 @@ section{
 
 .heading{
   text-align: center;
-  font-size: 8rem;
+  font-size: 10rem;
   padding:1rem;
   padding-top: 8rem;
   color:var(--black);
@@ -134,7 +134,7 @@ header .fa-bars{
     margin-top: 50px;
 }
 .home .content h1{
-  font-size: 5rem;
+  font-size: 9rem;
   color:var(--black);
 }
 
@@ -143,16 +143,21 @@ header .fa-bars{
 }
 
 .home .content h3{
-  font-size: 4rem;
+  font-size: 6rem;
   color:var(--black);
 }
 
+.home .content button {
+  width: 30%;
+  font-size: 2rem;
+}
+
 .carousel .container h5 {
-  font-size: 4rem;
+  font-size: 6rem;
 }
 
 .carousel .container p{
-  font-size: 2rem;
+  font-size: 3rem;
 }
 .carousel .container h5, p.highlight {
   color: black;
@@ -161,7 +166,7 @@ header .fa-bars{
 }
 
 .about{
-  background:white;
+  background: white;
 }
 
 .about .content .box{
@@ -227,6 +232,10 @@ header .fa-bars{
   text-align: justify;
 }
 
+.destinations h2{
+  font-size: 5rem;
+}
+
 .destinations .box-container .box h2{
   text-align: end;
   color:var(--blue);
@@ -236,7 +245,7 @@ header .fa-bars{
   text-align: end;
   color:var(--black);
   display: block;
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 .destinations .box-container .box::before{
