@@ -39,7 +39,7 @@ section{
   width: 10rem;
   background:var(--green);
   color:#fff;
-  font-size: 1.7rem;
+  font-size: 2rem;
   border-radius: .5rem;
   cursor: pointer;
   position: relative;
@@ -70,7 +70,7 @@ section{
 
 .heading{
   text-align: center;
-  font-size: 6rem;
+  font-size: 8rem;
   padding:1rem;
   padding-top: 8rem;
   color:var(--black);
@@ -110,7 +110,7 @@ header a:hover{
 }
 
 header .container{
-  font-size: 4rem;
+  font-size: 6rem;
 }
 
 header .container span{
@@ -124,7 +124,7 @@ header .nav ul{
 }
 
 header .fa-bars{
-  font-size: 5rem;
+  font-size: 6rem;
   color:var(--green);
   cursor: pointer;
   display: none;
@@ -134,7 +134,7 @@ header .fa-bars{
     margin-top: 50px;
 }
 .home .content h1{
-  font-size: 4rem;
+  font-size: 5rem;
   color:var(--black);
 }
 
@@ -143,16 +143,16 @@ header .fa-bars{
 }
 
 .home .content h3{
-  font-size: 3rem;
+  font-size: 4rem;
   color:var(--black);
 }
 
 .carousel .container h5 {
-  font-size: 3rem;
+  font-size: 4rem;
 }
 
 .carousel .container p{
-  font-size: 1.6rem;
+  font-size: 2rem;
 }
 .carousel .container h5, p.highlight {
   color: black;
@@ -166,12 +166,12 @@ header .fa-bars{
 
 .about .content .box{
   margin: 0;
-  font-size: 1.3rem;
+  font-size: 2rem;
 }
 
 .about .content .box h3{
   text-align: center;
-  font-size: 2rem;
+  font-size: 4rem;
   color:var(--black);
 }
 
@@ -181,7 +181,7 @@ header .fa-bars{
 }
 
 .about .content .box p{
-  font-size: 1.3rem;
+  font-size: 2rem;
   padding-left: 6rem;
   color:#666;
 }
@@ -222,7 +222,7 @@ header .fa-bars{
 }
 
 .destinations .box p{
-  font-size: 1.4rem;
+  font-size: 2rem;
   color:var(--gray);
   text-align: justify;
 }
@@ -236,7 +236,7 @@ header .fa-bars{
   text-align: end;
   color:var(--black);
   display: block;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .destinations .box-container .box::before{
@@ -273,7 +273,7 @@ header .fa-bars{
   width:49%;
   padding:0 1rem;
   margin:1rem 0;
-  font-size: 1.7rem;
+  font-size: 2rem;
   color:var(--black);
 }
 
@@ -303,7 +303,7 @@ header .fa-bars{
 }
 
 .footer p{
-  font-size: 1.2rem;
+  font-size: 2rem;
   color:#eee;
   padding:1rem 0;
 }
@@ -313,23 +313,24 @@ header .fa-bars{
 }
 
 .footer .col-md-4:nth-child(1) a{
-  font-size: 1.3rem;
+  font-size: 2rem;
   color:#fff;
 }
 
 .footer .col-md-4:nth-child(1) a span{
-  color:var(--blue);
+  color:var(--green);
 }
 
 .footer a{
-  font-size: 1rem;
+  font-size: 2rem;
   color:#ccc;
   display: block;
 }
 
 .footer h3{
+  text-align: center;
   color:#fff;
-  font-size: 1.3rem;
+  font-size: 2rem;
 }
 
 .footer a:hover{
@@ -337,7 +338,7 @@ header .fa-bars{
 }
 
 .footer .credit{
-  font-size: 1rem;
+  font-size: 2rem;
   color:#fff;
   width:80%;
   margin:0;
@@ -410,7 +411,7 @@ header .fa-times{
   }
 
   header .nav ul li a{
-    font-size: 3rem;
+    font-size: 5rem;
     display: block;
   }
 
