@@ -34,8 +34,18 @@
                     <a class="nav-link" style="color: green;" href="#contact">Contact</a>
                 </li>
             </ul>
-
-            <div class="fas fa-bars"></div> 
+            <script>
+              $(document).ready(function(){
+                $('.nav-item').on({
+                  mouseenter:function(){
+                    $(this).css("background-color", "gray")
+                  },
+                  mouseleave:function(){
+                    $(this).css("background-color", "white")
+                  }
+                });
+              });    
+            </script>
         </div>
     </header>
     <body>
