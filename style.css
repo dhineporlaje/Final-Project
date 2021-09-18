@@ -106,7 +106,7 @@ header a{
 }
 
 header a:hover{
-  color:var(--red);
+  color:var(--black);
 }
 
 header .container{
@@ -152,6 +152,11 @@ header .fa-bars{
   font-size: 2rem;
 }
 
+.home img:hover{
+  transform: scale(1.4);
+  filter: grayscale(100%);
+}
+
 .carousel .container h5 {
   font-size: 6rem;
 }
@@ -191,6 +196,11 @@ header .fa-bars{
   color:#666;
 }
 
+.about img:hover{
+  transform: scale(1.4);
+  filter: grayscale(100%);
+}
+
 .destinations{
   background-color: rgb(180, 180, 180);
   background-size: cover;
@@ -224,6 +234,11 @@ header .fa-bars{
   width:5rem;
   border-radius: 50%;
   object-fit: cover;
+}
+
+.destinations .box img:hover{
+  transform: scale(1.1);
+  filter: grayscale(100%);
 }
 
 .destinations .box p{
